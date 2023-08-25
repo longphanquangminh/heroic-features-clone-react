@@ -1,4 +1,4 @@
-Deployed link: https://doragong-heroic-features-clone.vercel.app .
+Deployed link: https://doragong-heroic-features-clone.vercel.app.
 
 # React + TypeScript + Vite
 
