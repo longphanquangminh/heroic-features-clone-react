@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh new layout",
+    "logo": "collection",
+    "detail": "With Bootstrap 5, we've created a fresh new layout for this template!"
+  },
+  {
+    "id": 2,
+    "name": "Free to download",
+    "logo": "cloud-download",
+    "detail": "As always, Start Bootstrap has a powerful collectin of free templates."
+  },
+  {
+    "id": 3,
+    "name": "Jumbotron hero header",
+    "logo": "card-heading",
+    "detail": "The heroic part of this template is the jumbotron hero header!"
+  },
+  {
+    "id": 4,
+    "name": "Feature boxes",
+    "logo": "bootstrap",
+    "detail": "We've created some custom feature boxes using Bootstrap icons!"
+  },
+  {
+    "id": 5,
+    "name": "Simple clean code",
+    "logo": "code",
+    "detail": "We keep our dependencies up to date and squash bugs as they come!"
+  },
+  {
+    "id": 6,
+    "name": "A name you trust",
+    "logo": "patch-check",
+    "detail": "Start Bootstrap has been the leader in free Bootstrap templates since 2013!"
+  }
+]
